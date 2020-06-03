@@ -1,5 +1,6 @@
 {:deps {org.clojure/clojure {:mvn/version "1.10.1"}
         com.walmartlabs/lacinia {:mvn/version "0.37.0-alpha-1"}
         com.walmartlabs/lacinia-pedestal {:mvn/version "0.5.0"}
-        io.aviso/logging {:mvn/version "0.2.0"}}
- :paths ["src"]}
+        io.aviso/logging {:mvn/version "0.2.0"}
+        thheller/shadow-cljs {:mvn/version "2.9.10"}}
+ :paths ["src" "target/dev"]}
