@@ -1,6 +1,9 @@
 {
   "private": true,
   "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "^16.13.1",
+    "react-refresh": "0.8.1",
     "shadow-cljs": "^2.9.10"
   }
 }

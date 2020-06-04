@@ -2,5 +2,7 @@
         com.walmartlabs/lacinia {:mvn/version "0.37.0-alpha-1"}
         com.walmartlabs/lacinia-pedestal {:mvn/version "0.5.0"}
         io.aviso/logging {:mvn/version "0.2.0"}
-        thheller/shadow-cljs {:mvn/version "2.9.10"}}
+        thheller/shadow-cljs {:mvn/version "2.9.10"}
+        lilactown/helix {:mvn/version "0.0.11"}
+        district0x/graphql-query {:mvn/version "1.0.6"}}
  :paths ["src" "target/dev"]}
